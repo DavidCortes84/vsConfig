@@ -1,0 +1,32 @@
+{
+    "terminal.integrated.fontFamily": "monospace",
+    "editor.fontSize": 16,
+    "editor.fontLigatures": true,
+    "tabnine.experimentalAutoImports": true,
+    "workbench.startupEditor": "none",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "php.validate.executablePath": "C:\\xampp\\php\\php",
+    "thunder-client.codeSnippetLanguage": "python-requests",
+    "terminal.integrated.cursorStyle": "underline",
+    "editor.cursorStyle": "underline",
+    "synthwave84.brightness": 0,
+    "editor.cursorBlinking": "phase",
+    "python.defaultInterpreterPath": "C:\\Users\\David\\AppData\\Local\\Microsoft\\WindowsApps\\python3.9.exe",
+    "telemetry.telemetryLevel": "off",
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "arduino.logLevel": "verbose",
+    "editor.minimap.enabled": false,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "editor.fontFamily": "'Fira Code iScript', 'Victor Mono',  'IBM 3270 Condensed',Consolas, 'Courier New', monospace",
+    "workbench.editor.openPositioning": "left",
+    "workbench.iconTheme": "simple-icons",
+    "workbench.editorAssociations": {
+        "*.db": "default"
+    },
+    "workbench.colorTheme": "Dracula Soft",
+    "window.menuBarVisibility": "compact",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "thunder-client.htmlView": "Raw Html",
+    "window.zoomLevel": 1
+}
